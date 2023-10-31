@@ -10,7 +10,7 @@ const HeroSection = () => {
             <HeroContainer>
                 <HeroInnerContainer >
                     <HeroLeftContainer id="Left">
-                        <Title>Hi, I am <br /> {Bio.name}</Title>
+                        <Title>Hi, my name is <br /> {Bio.name}</Title>
                         <TextLoop>
                             I am a
                             <Span>
